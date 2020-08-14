@@ -1,0 +1,44 @@
+div.art{
+	width: 33%; 
+	float: left;
+	margin-top: 20px;
+}
+img.imgart{
+	width: 110%;
+	height: 250px;
+}
+article{
+	width: 80%;
+	margin: 20px auto;
+}
+p{
+	text-align: justify;
+}
+p.da1{
+	width: 110%;
+	height: 190px;
+	background: #083C53;
+	color: white;
+}
+h1{
+	background: #A9CA43;
+}
+h2.link{
+ 	display: block;
+	width: 110%;
+	height: 50px;
+	text-align: center;
+    float: left;
+  	text-decoration: none;
+  	background-color: #3E5C9A;
+}
+a.icon-download2{
+	display: block;
+ 	padding: 30px;
+ 	text-decoration: none;
+ 	background: none;
+ 	transform: translateY(-20px);
+}
+a{
+	outline:none;
+}
